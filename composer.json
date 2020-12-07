@@ -1,5 +1,5 @@
 {
-  "name": "geekcom/phpjasper",
+  "name": "prodata/phpjasper",
   "description": "A PHP report generator",
   "license": "MIT",
   "keywords": [
@@ -8,11 +8,8 @@
     "pdf"
   ],
   "authors": [
-    {
-      "name": "Daniel Rodrigues Lima",
-      "email": "geekcom@php.net",
-      "role": "lead"
-    }
+    {"name": "Marco Aurelio Ventura da Silva", "email": "marcoprodata@gmail.com"},
+    {"name": "Wendel Henrique Ferreira", "email": "wendel086@gmail.com"}
   ],
   "minimum-stability": "stable",
   "require": {
